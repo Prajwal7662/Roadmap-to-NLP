@@ -216,13 +216,7 @@ Speech and Language Processing – Jurafsky & Martin
 
 Natural Language Processing with Python – Bird
 
-🔹 Online Courses
 
-Coursera: NLP Specialization
-
-Udemy: NLP for Deep Learning
-
-HuggingFace NLP Course
 
 🎯 Final Goal
 
