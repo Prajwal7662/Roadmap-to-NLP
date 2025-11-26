@@ -215,14 +215,6 @@ HuggingFace Transformers
  
  ┗ 📄 README.md
 
-🧩 Additional Resources
-🔹 Books
-
-Speech and Language Processing – Jurafsky & Martin
-
-Natural Language Processing with Python – Bird
-
-
 
 🎯 Final Goal
 
