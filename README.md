@@ -202,11 +202,17 @@ HuggingFace Transformers
 🗂 Folder Structure (Suggestion)
 📦 NLP-Roadmap
  ┣ 📁 basics
+ 
  ┣ 📁 feature_engineering
+ 
  ┣ 📁 embeddings
+ 
  ┣ 📁 deep_learning_models
+ 
  ┣ 📁 transformers
+ 
  ┣ 📁 projects
+ 
  ┗ 📄 README.md
 
 🧩 Additional Resources
